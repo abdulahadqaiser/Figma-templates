@@ -1,0 +1,519 @@
+creat this using css the size of the whole page is in which the all contnent is laying is : width: 1366px; height: 768px; left: -1px; gap: 0px; opacity: 0px;
+
+colors:
+
+dark blue is:background: #057ADA;
+
+light blue is: background: #6F7DFB;
+
+white looking coolor:background: #E8F7FB;
+
+black looking color:background: #070917;
+
+darkest blue color:background: #023047;
+
+orange looking color:background: #DA722C;
+
+Text sizes and padding and margins between them:
+
+text GD
+
+{
+
+layout:
+
+ width: 69px;
+
+height: 47px;
+
+top: 48px;
+
+left: 116px;
+
+gap: 0px;
+
+opacity: 0px;
+
+typography:
+
+font-family: Raleway;
+
+font-size: 40px;
+
+font-weight: 900;
+
+line-height: 46.96px;
+
+text-align: left;
+
+colors:
+
+background: #FFFFFF;
+
+extra things :
+
+its distance from text:
+
+"Learn The Art of dev is "
+
+is 124px
+
+and from "about of menue item is 531px
+
+}
+
+menue items
+
+{
+
+layout:
+
+width: 534px;
+
+height: 59px;
+
+top: 42px;
+
+left: 716px;
+
+gap: 0px;
+
+border-radius: 24px 0px 0px 0px;
+
+opacity: 0px;
+
+extra things :
+
+its distance from tag "32k sudents enrolled"  is 239px 
+
+}
+
+menue content(about,services,ourwork)
+
+{
+
+layout:
+
+width: 51px;
+
+height: 24px;
+
+top: 60px;
+
+left: 716px;
+
+gap: 0px;
+
+opacity: 0px;
+
+typography:
+
+font-family: Poppins;
+
+font-size: 16px;
+
+font-weight: 700;
+
+line-height: 24px;
+
+text-align: left;
+
+color:
+
+background: #FFFFFF;
+
+extra things :
+
+the distance between each meue item is 60px
+
+}
+
+menue content button ("Enroll now")
+
+{
+
+component properties:
+
+Icon=False;
+
+Dark=True;
+
+Platform="Desktop";
+
+Layout:
+
+width: Hug (155px)px;
+
+height: Hug (59px)px;
+
+top: 42px;
+
+left: 1095px;
+
+padding: 16px 32px 16px 32px;
+
+gap: 10px;
+
+border-radius: 24px 0px 0px 0px;
+
+opacity: 0px;
+
+Color:
+
+background: #023047;
+
+extra things:
+
+its distance from hero pic is 85px(not component its border which includes width and height)
+
+and from end of the container is 11px(not component its border which includes width and height)
+
+}
+
+Text "Leaarn the art of Game dev"
+
+{
+
+Layout:
+
+width: 457px;
+
+height: 126px;
+
+top: 219px;
+
+left: 116px;
+
+gap: 0px;
+
+opacity: 0px;
+
+Typography:
+
+font-family: Raleway;
+
+font-size: 50px;
+
+font-weight: 900;
+
+line-height: 62.5px;
+
+text-align: left;
+
+colors:
+
+background: #FFFFFF;
+
+extra things:
+
+its distance from the radius of the menue bar is 118px(not component its border which includes width and height) and from the text underneath it is 18px(not component its border which includes width and height) and its difference from hero image hero(not component its border which includes width and height)
+
+}
+
+Text(This is a comprehensive course on Game Development. You will learn everything from generating an idea to publishing your games to different platforms.)
+
+{
+
+Layout:
+
+width: 457px;
+
+height: 96px;
+
+top: 363px;
+
+left: 116px;
+
+gap: 0px;
+
+opacity: 0px;
+
+Typography:
+
+font-family: Poppins;
+
+font-size: 16px;
+
+font-weight: 400;
+
+line-height: 32px;
+
+text-align: left;
+
+colors:
+
+background: #FFFFFF;
+
+extra things:
+
+Its distance from text "Learn the art of Game Dev"
+
+is 18px and button or label raadiused box with text"32k students enrollled is  50px"(not component its border which includes width and height)  and from the orange button with text"enroll now" with pencil symbol is 30px(not component its border which includes width and height)  
+
+}
+
+orange button with text"Enroll now" and pencil sign
+
+{
+
+component properties:
+
+Icon=True;
+
+Dark=False;
+
+Platform="Desktop";
+
+component layout:
+
+width: Hug (198px)px;
+
+height: Hug (59px)px;
+
+top: 257px;
+
+left: 20px;
+
+padding: 16px 32px 16px 32px;
+
+gap: 10px;
+
+border-radius: 24px 0px 0px 0px;
+
+opacity: 0px;
+
+colors:
+
+background: #DA722C;
+
+link fro pencil logo before:PencilAlt(layout:width: 18px;
+
+height: 18px;
+
+gap: 0px;
+
+opacity: 0px;
+
+extra things:
+
+from top of the contaner 510px and from left 149px)
+
+}
+
+round with text"4.7 overall rating"
+
+{
+
+Layout:
+
+width: 188px;
+
+height: 98px;
+
+top: 562px;
+
+left: 589px;
+
+gap: 0px;
+
+opacity: 0px;
+
+extra things:
+
+64px(not component its border which includes width and height)   from the hero image 108px from the bottom of the main container 
+
+emojione_star.svg"star iamge":
+
+(link:emojione_star.svg
+
+layout:
+
+width: 44px;
+
+height: 44px;
+
+top: 571px;
+
+left: 691px;
+
+padding: 2.06px 1.38px 2.06px 1.38px;
+
+gap: 0px;
+
+opacity: 0px;
+
+of themain container
+
+)
+
+text" 4.7":
+
+(width: 54px;
+
+height: 45px;
+
+top: 571px;
+
+left: 633px;
+
+gap: 0px;
+
+opacity: 0px;
+
+Typography:
+
+font-family: Poppins;
+
+font-size: 36px;
+
+font-weight: 700;
+
+line-height: 45px;
+
+text-align: left;
+
+color:
+
+background: #023047;
+
+extra things:
+
+36px from the bottom-border of thee radiused box 9px from top 85px from right and 44px rom left)
+
+text"overall rating:
+
+(Layout:
+
+width: 112px;
+
+height: 20px;
+
+top: 616px;
+
+left: 630px;
+
+gap: 0px;
+
+opacity: 0px;
+
+Typography:
+
+font-family: Poppins;
+
+font-size: 16px;
+
+font-weight: 400;
+
+line-height: 20px;
+
+text-align: left;
+
+colors:
+
+background: #023047;
+
+extra things:
+
+16px from the bottom-border of thee radiused box 54px from top 30 from right and 41px rom left) 
+
+}
+
+Box with text "32k students enrolled"
+
+{
+
+layout:
+
+width: 213px;
+
+height: 98px;
+
+top: 323px;
+
+left: 623px;
+
+gap: 0px;
+
+border-radius: 24px 0px 0px 0px;
+
+opacity: 0px;
+
+extra things:
+
+529px from the right side of the main container 624 from the left side of the main container 323px from the top and 347px from the bottom of the main container
+
+text"32k":
+
+(
+
+Layout:
+
+width: 68px;
+
+height: 45px;
+
+top: 330px;
+
+left: 692px;
+
+gap: 0px;
+
+opacity: 0px;
+
+Typography:
+
+font-family: Poppins;
+
+font-size: 36px;
+
+font-weight: 700;
+
+line-height: 45px;
+
+text-align: left;
+
+color:
+
+background: #023047;
+
+extra things:
+
+7px from top 38px from bottom
+
+69 from left 69 from right inside the box with text 32k students enrolled )
+
+text"student enrolled":
+
+(52px from top 18px from bottom 33px from right 34px from left inside the box with twxt 32k students enrolled 
+
+)
+
+}
+
+Hero image:
+
+{
+
+Layout:
+
+width: 446px;
+
+height: 582px;
+
+top: 186px;
+
+left: 841px;
+
+gap: 0px;
+
+opacity: 0px;
+
+extra things:
+
+78px gap from right 186px from top 842px from left and 0px from bottom of the main container
+
+link:hero-image 1.png
+
+}
+
+make the website using css and html and using the given data and use color by making their variabels  and remeber there is color gradient in back ground
